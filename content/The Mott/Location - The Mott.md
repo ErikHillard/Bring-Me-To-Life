@@ -4,3 +4,6 @@ The Mott seems to be a community of individuals that is a few days away from [[L
 
 ## Important Characters:
 
+[[Nix]]
+[[Nix#Synopsis]]
+
