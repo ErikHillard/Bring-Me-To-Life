@@ -1,9 +1,9 @@
-The Mott seems to be a community of individuals that is a few days away from [[Location - The City|The City]]. 
+The Mott seems to be a community of individuals that is a few days away from [[Location - The City - Roker|The City]]. 
 
 
 
 ## Important Characters:
 
-[[Nix]]
-[[Nix#Synopsis]]
+[[Nix - Captain]]
+[[Nix - Captain#Synopsis]]
 

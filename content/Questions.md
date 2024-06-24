@@ -1,0 +1,1 @@
+What is roker? I have it next to capital
